@@ -1,0 +1,33 @@
+<div className = "card">
+        <figure>
+        <ul>{this.currentCompany}</ul>
+        </figure>
+        <div className = "stories">
+        <ul>
+          <li>
+            <p>loreum ipsom loreum ipsom loreum ipsom loreum ipsom 
+            loreum ipsom loreum ipsom loreum ipsom loreum ipsom loreum ipsom 
+            loreum ipsom loreum ipsom loreum ipsom loreum ipsom </p>
+            <p>BILL BAITS</p>
+            <p>CEO</p>
+        </li>
+
+        <li>
+            <p>loreum ipsom loreum ipsom loreum ipsom loreum ipsom 
+            loreum ipsom loreum ipsom loreum ipsom loreum ipsom loreum ipsom 
+            loreum ipsom loreum ipsom loreum ipsom loreum ipsom </p>
+            <p>BILL BAITS</p>
+            <p>CEO</p>
+          </li>
+
+
+          <li>
+            <p>loreum ipsom loreum ipsom loreum ipsom loreum ipsom 
+              loreum ipsom loreum ipsom loreum ipsom loreum ipsom loreum ipsom 
+              loreum ipsom loreum ipsom loreum ipsom loreum ipsom </p>
+            <p>BILL BAITS</p>
+            <p>CEO</p>
+          </li>
+        </ul>
+        </div>
+        </div>
